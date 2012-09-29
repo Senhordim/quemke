@@ -5,6 +5,7 @@ gem 'jquery-rails'
 gem 'omniauth-facebook'
 gem "paperclip", "~> 3.0"	
 gem 'paperclipdropbox'
+gem 'pg'
 
 group :development, :test do
 	gem 'debugger'
